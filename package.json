@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "dependencies": {
-    "@animaliads/ani-checkbox": "^1.1.0-dev.12",
+    "@animaliads/ani-checkbox": "dev",
     "@animaliads/animalia-brand": "1.1.0-dev.9",
     "@animaliads/css-tokens": "1.1.0-dev.1",
     "react": "17.0.2",
